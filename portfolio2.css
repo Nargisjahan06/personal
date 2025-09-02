@@ -25,9 +25,11 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin-left: 50px;
 }
 .logo{
-    width: 500px;
+    width: 100px;
+    height: 100px;
 }
 nav ul li{
     display: inline-block;
@@ -405,3 +407,4 @@ nav .fa-times {
         flex-basis: 100%;
     }
 }
+
